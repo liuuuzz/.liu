@@ -1,10 +1,22 @@
+body {
+    background-color: aqua;
+    text-align: center;
+}
 
 h1 {
+    color: blueviolet;
+}
+
+.unicornio {
+    color: aqua
+}
+
+.arco-iris {
     color: hotpink
 }
 .imagem1 {
-    width: 40%;
     width: 30%;
 }
 .imagemcentralizada {
  text-align: center;
+}
